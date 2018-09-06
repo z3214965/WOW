@@ -14,8 +14,6 @@ Skada：伤害统计插件
 
 meetingstone：集合石  
 
-DejaCharacterStats：C键角色面板属性增强，直接显示实装/虚装，显示一些系统默认面板看不到的属性，移动速度啊之类的
-
 PersonalLootHelper：个拾助手，你捡到的装备比别人身上的装等高？插件会提示，别人捡到的装备比你身上的装等高？插件也会提示，毛装和送温暖必备
 
 Simulationcraft：跑分
