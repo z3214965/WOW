@@ -28,7 +28,8 @@ Immersion：任务内容剧情插件
 
 WorldQuestTracker-r313-alpha：世界任务追踪
 
-LittleWigs-v8.0.19：五人本boss提示
+BigWigs-v113：团队报警
+LittleWigs-v8.0.19（需要BigWigs）：五人本boss提示
 
 插件集合：http://bbs.ngacn.cc/read.php?&tid=13887729
 
