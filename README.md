@@ -29,7 +29,7 @@ WorldQuestTracker：世界任务追踪
 BigWigs：团队报警\n
 LittleWig（需要BigWigs）：五人本boss提示
 
-DungeonWatchDog：集合石屏蔽广告插件 看门狗
+MethodDungeonTools：8.0小怪说明
 
 插件集合：http://bbs.ngacn.cc/read.php?&tid=13887729
 
