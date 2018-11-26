@@ -31,6 +31,8 @@ LittleWig（需要BigWigs）：五人本boss提示
 
 MethodDungeonTools：8.0小怪说明
 
+Decursive：驱散助手  /dcrshow - 显示锚点
+
 插件集合：http://bbs.ngacn.cc/read.php?&tid=13887729
 
 
