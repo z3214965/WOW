@@ -33,6 +33,10 @@ MethodDungeonTools：8.0小怪说明
 
 Decursive：驱散助手  /dcrshow - 显示锚点
 
+TomCats-ArathiHighlandsRares：战争前线（阿拉希）
+
+TomCats-DarkshoreRares：战争前线（黑海岸）
+
 插件集合：http://bbs.ngacn.cc/read.php?&tid=13887729
 
 
