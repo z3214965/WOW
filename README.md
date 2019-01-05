@@ -4,11 +4,13 @@
 # 插件说明 
 HandyNotes：有名的地图增强插件，在地图上显示草药、矿点、宝藏坐标的插件
 
-HandyNotes_Arathi：8.0阿拉希高地稀有精英
+HandyNotes_WarfrontRares：8.0战争前线稀有精英
 
 ALL THE THINGS：最近发现一款船新的插件，很火，叫ALL THE THINGS，简称ATT，追踪幻化、坐骑、小宠物、成就、任务、节日等等进度，会显示当前区域有哪些可以完成的项目，成就大佬必备。注意：该插件好用归好用，但是内存占用比较大，可以考虑只给做成就刷玩具的号开启这个插件
 
-Skada：伤害统计插件
+Details：伤害统计插件
+
+Recount：伤害统计插件
 
 meetingstone：集合石  
 
@@ -20,7 +22,7 @@ TellMeWhen：技能提示
 
 AzeriteTooltip：查看特质装的特质的
 
-ElvUI Enhanced Again：Elvui引擎增强插件。提供自动换装、装等显示、小地图按钮整合等等扩展功能
+ElvUI_Enhanced：Elvui引擎增强插件
 
 Immersion：任务内容剧情插件
 
