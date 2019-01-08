@@ -6,13 +6,13 @@ HandyNotes：有名的地图增强插件，在地图上显示草药、矿点、�
 
 HandyNotes_WarfrontRares：8.0战争前线稀有精英
 
-ALL THE THINGS：最近发现一款船新的插件，很火，叫ALL THE THINGS，简称ATT，追踪幻化、坐骑、小宠物、成就、任务、节日等等进度，会显示当前区域有哪些可以完成的项目，成就大佬必备。注意：该插件好用归好用，但是内存占用比较大，可以考虑只给做成就刷玩具的号开启这个插件
+ALL THE THINGS：追踪幻化、坐骑、小宠物、成就、任务、节日等等进度，会显示当前区域有哪些可以完成的项目，成就大佬必备。注意：该插件好用归好用，但是内存占用比较大，可以考虑只给做成就刷玩具的号开启这个插件
 
 Details、Recount：伤害统计插件
 
 meetingstone：集合石  
 
-PersonalLootHelper：个拾助手，你捡到的装备比别人身上的装等高？插件会提示，别人捡到的装备比你身上的装等高？插件也会提示，毛装和送温暖必备
+PersonalLootHelper：个人拾助手，毛装和送温暖必备
 
 Simulationcraft：跑分
 
@@ -37,7 +37,7 @@ TomCats-ArathiHighlandsRares：战争前线（阿拉希）
 
 TomCats-DarkshoreRares：战争前线（黑海岸）
 
-BadBoy：广告过滤   /badboy
+BadBoy：广告过滤   /badboy  
 BadBoy_CCleaner：关键字过滤  
 BadBoy_Ignore：屏蔽玩家
 
