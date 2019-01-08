@@ -26,7 +26,7 @@ Immersion：任务内容剧情插件
 
 WorldQuestTracker：世界任务追踪
 
-BigWigs：团队报警\n
+BigWigs：团队报警  
 LittleWig（需要BigWigs）：五人本boss提示
 
 MethodDungeonTools：8.0小怪说明
@@ -37,7 +37,7 @@ TomCats-ArathiHighlandsRares：战争前线（阿拉希）
 
 TomCats-DarkshoreRares：战争前线（黑海岸）
 
-BadBoy：广告过滤  
+BadBoy：广告过滤   /badboy
 BadBoy_CCleaner：关键字过滤  
 BadBoy_Ignore：屏蔽玩家
 
@@ -65,4 +65,3 @@ s:SetPoint("TOP", parent, "TOP", 0, 0)
 
 World of Warcraft\WTF\Account\账号\SavedVariables 里面保存每个插件设置信息
 
-/badboy
