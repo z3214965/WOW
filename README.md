@@ -37,7 +37,7 @@ TomCats-ArathiHighlandsRares：战争前线（阿拉希）
 
 TomCats-DarkshoreRares：战争前线（黑海岸）
 
-BadBoy：广告过滤 '\r'
+BadBoy：广告过滤 ^p
 BadBoy_CCleaner：关键字过滤
 BadBoy_Ignore：屏蔽玩家
 
