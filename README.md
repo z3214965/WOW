@@ -37,7 +37,7 @@ TomCats-ArathiHighlandsRares：战争前线（阿拉希）
 
 TomCats-DarkshoreRares：战争前线（黑海岸）
 
-BadBoy：广告过滤
+BadBoy：广告过滤'\n'
 BadBoy_CCleaner：关键字过滤
 BadBoy_Ignore：屏蔽玩家
 
@@ -64,3 +64,5 @@ color - 在DEFAULT和RARITY着色之间更改itemlevel文本的颜色。
 s:SetPoint("TOP", parent, "TOP", 0, 0)
 
 World of Warcraft\WTF\Account\账号\SavedVariables 里面保存每个插件设置信息
+
+/badboy
