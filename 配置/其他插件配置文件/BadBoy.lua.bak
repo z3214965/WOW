@@ -1,9 +1,0 @@
-
-BADBOY_BLACKLIST = {
-	["dayFromCal"] = 8,
-}
-BADBOY_OPTIONS = {
-	["tipSpam"] = false,
-	["noAnim"] = false,
-	["freqBtn"] = false,
-}
