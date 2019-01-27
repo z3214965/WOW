@@ -1,0 +1,24 @@
+
+PLH_META = {
+	["PLH_SHOW_WHISPER_WARNING"] = false,
+	["PLH_LAST_SEEN_MESSAGE_VERSION"] = "2.19",
+}
+PLH_PREFS = {
+	["PLH_AUTO_HIDE"] = true,
+	["PLH_WHISPER_MESSAGE"] = "装备 %item 有需求吗?",
+	["PLH_CURRENT_SPEC_ONLY"] = false,
+	["PLH_SHOW_TRADEABLE_ALERT"] = true,
+	["PLH_ONLY_OFFER_IF_UPGRADE"] = false,
+	["PLH_ANNOUNCE_TRADES"] = false,
+	["PLH_ILVL_THRESHOLD"] = -1,
+	["PLH_DEBUG"] = false,
+	["PLH_SKIP_CONFIRMATION"] = false,
+	["PLH_INCLUDE_XMOG"] = true,
+	["PLH_NEVER_OFFER_BOE"] = false,
+}
+PLH_STATS = {
+	["PLH_ITEMS_REQUESTED"] = 0,
+	["PLH_ITEMS_OFFERED"] = 0,
+	["PLH_ITEMS_GIVEN_AWAY"] = 0,
+	["PLH_ITEMS_RECEIVED"] = 0,
+}
