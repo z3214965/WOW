@@ -41,7 +41,7 @@ BadBoy：广告过滤   /badboy
 BadBoy_CCleaner：关键字过滤  
 BadBoy_Ignore：屏蔽玩家
 
-iLevel、DejaCharacterStats：人物信息增强
+DejaCharacterStats：人物信息增强
 
 插件集合：http://bbs.ngacn.cc/read.php?&tid=13887729
 
